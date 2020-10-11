@@ -6,4 +6,4 @@ Group 6 in class 11/12.
 - Solomon
 - Raoul
 - Chyngyz
-- [Evan](https://badgerbadgerbadgerbadger.com)
+- Evan
