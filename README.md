@@ -5,5 +5,5 @@ Group 5 in class 11/12.
 - Laura
 - Solomon
 - Raoul
-- Chyngyz
+- !(Chyngyz)[https://github.com/jraoul2002/superHeros/projects/1#card-47141365]
 - Evan
