@@ -108,7 +108,7 @@ __As a site visitor, I want to learn more about *Solomon*__
 ### README.md
 
 - [ ] change their list item into a link
-## 2. Introduce _Chyngyz_
+## 5. Introduce _Chyngyz_
 
 > assigned to Chyngyz
 
