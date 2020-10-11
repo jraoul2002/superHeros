@@ -1,6 +1,6 @@
 # Super Heros
 
-Group 6 in class 11/12.
+Group 5 in class 11/12.
 
 - Laura
 - Solomon
