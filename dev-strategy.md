@@ -30,14 +30,14 @@ __As a site visitor, I want to know about your team and who is in it__
 
 ### Repo
 
-- [ ] developed on a branch named `about-the-team`
+- [x] developed on a branch named `about-the-team`
 
 ### README.md
 
-- [ ] create the file
-- [ ] the group name as a main title
-- [ ] a paragraph introduction to the team
-- [ ] a list containing each team member's name (not links, just text)
+- [x] create the file
+- [x] the group name as a main title
+- [x] a paragraph introduction to the team
+- [x] a list containing each team member's name (not links, just text)
 
 ---
 
